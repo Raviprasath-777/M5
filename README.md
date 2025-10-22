@@ -28,8 +28,7 @@ int main() {
 ```
 
 ## OUTPUT:
- 	
-![Image](https://github.com/user-attachments/assets/bef3b659-4741-4109-a5b5-a22741b6174e)
+ 	![alt text](<module 5-1.jpg>)
 
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
@@ -74,8 +73,7 @@ int main() {
 }
 '''
 ## OUTPUT:
-![Image](https://github.com/user-attachments/assets/5480eb42-9798-4e25-8489-657b09ef12ab)
-         		
+![alt text](<module 5-2.jpg>)
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -137,12 +135,12 @@ int main() {
 
 ## OUTPUT
 
-![Image](https://github.com/user-attachments/assets/ef7abd08-d4f7-4da2-8d8a-5934ef687d80)
+![alt text](<module 5-3.jpg>)
 
  
  ## RESULT
  
-
+The c program proceeded successfully.
 
 # EX-24-STRINGS
 
@@ -194,7 +192,7 @@ int main() {
 
  ## OUTPUT
 
- ![Image](https://github.com/user-attachments/assets/0b70eff2-70f2-4f43-b862-8e91f38b9bdb)
+ ![alt text](<module 5-4.jpg>)
 
 ## RESULT
 
@@ -251,9 +249,7 @@ int main() {
 '''
 
 ## OUTPUT
-
-![Image](https://github.com/user-attachments/assets/e4a1ce25-853d-4371-8741-eb20c041feb8)
- 
+![alt text](<module 5-5.jpg>)
 
 ## RESULT
 
